@@ -6,8 +6,8 @@
 * [Foreword](./book/Foreword.md)
   * [About the Author](./book/Foreword/About%20the%20Author.md)
   * [FAQ](./book/Foreword/FAQ.md)
-  * [Who is this book for?](./book/Foreword/Who is this book for?.md)
-  * [How to read the book?](./book/Foreword/How to read the book?.md)
+  * [Who is this book for?](./book/Foreword/Who%20is%20this%20book%20for?.md)
+  * [How to read the book?](./book/Foreword/How%20to%20read%20the%20book?.md)
 * [Fundamentals of React](./book/Fundamentals%20of%20React.md)
 * [Conclusion](conclusion.md)
 
