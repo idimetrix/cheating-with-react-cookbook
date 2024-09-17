@@ -11,61 +11,52 @@
 * [Fundamentals of React](./book/Fundamentals%20of%20React.md)
 * [Conclusion](conclusion.md)
 
+```
 
-Hello React
-Requirements
-Setting up a React Project
-Project Structure
-npm Scripts
-Meet the React Component
-React JSX
-Lists in React
-Meet another React Component
-React Component Instantiation
-React DOM
-React Component Declaration
-Handler Function in JSX
-React Props
-React State
-Callback Handlers in JSX
-Lifting State in React
-React Controlled Components
-Props Handling (Advanced)
-React Side-Effects
-React Custom Hooks (Advanced)
-React Fragments
-Reusable React Component
-React Component Composition
-Imperative React
-Inline Handler in JSX
-React Asynchronous Data
-React Conditional Rendering
-React Advanced State
-React Impossible States
-Data Fetching with React
-Data Re-Fetching in React
-Memoized Functions in React (Advanced)
-Explicit Data Fetching with React
-Third-Party Libraries in React
-Async/Await in React
-Forms in React
-A Roadmap for React
-Styling in React
-CSS in React
-CSS Modules in React
-Styled Components in React
-SVGs in React
-React Maintenance
-Performance in React (Advanced)
-TypeScript in React
-Testing in React
-React Project Structure
-Real World React (Advanced)
-Sorting
-Reverse Sort
-Remember Last Searches
-Paginated Fetch
-Deploying a React Application
-Build Process
-Deploy to Firebase
-Outline
+
+Foreword
+  About the Author
+  FAQ
+  Who is this book for?
+
+Fundamentals of React
+  Hello React
+  Requirements
+  Setting up a React Project
+  Project Structure
+  npm Scripts
+  Meet the React Component
+  React JSX
+  Lists in React
+  Meet another React Component
+  React Component Instantiation
+  React DOM
+  React Component Declaration
+  Handler Function in JSX
+  React Props
+  React State
+  Callback Handlers in JSX
+  Lifting State in React
+  React Controlled Components
+  Props Handling (Advanced)
+  React Side-Effects
+  React Custom Hooks (Advanced)
+  React Fragments
+  Reusable React Component
+  React Component Composition
+  Imperative React
+  Inline Handler in JSX
+  React Asynchronous Data
+  React Conditional Rendering
+  React Advanced State
+  React Impossible States
+  Data Fetching with React
+  Data Re-Fetching in React
+  Memoized Functions in React (Advanced)
+  Explicit Data Fetching with React
+  Third-Party Libraries in React
+  Async/Await in React
+  Forms in React
+  
+  
+```
