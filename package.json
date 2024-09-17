@@ -1,0 +1,18 @@
+{
+  "name": "cheating-with-react-cookbook",
+  "version": "1.0.0",
+  "description": "**Cheating with React Cookbook** is a practical guide packed with shortcuts, tips, and best practices to accelerate your React development. This book offers quick solutions for common problems, allowing you to \"cheat\" your way to efficient, high-performing React applications. Whether you're a beginner looking to learn faster or an experienced developer in need of quick references, this cookbook covers everything from basic components to advanced hooks and state management, helping you boost productivity without compromising quality.",
+  "main": "index.js",
+  "scripts": {
+    "prettier": "prettier --write README.md ./book",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    "prettier": "3.3.3"
+  },
+  "author": "",
+  "license": "ISC"
+}
